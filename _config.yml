@@ -1,4 +1,4 @@
 title: Utkarsh Gupta
-logo:"assests/img/myphoto1.jpg"
+logo: /assests/img/myphoto1.jpg
 #show downloads:true
 theme: jekyll-theme-minimal

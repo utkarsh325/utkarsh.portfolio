@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://github.com/utkarsh325/utkarsh.portfolio/blob/e06d44e95aef1e98afef60437ca93d4471d99fec/myphoto1.jpg"
-alt = width="500" height="300"></p>
-
-
 
 
 CSIT Student | Programmer | Coding Enthuaist
